@@ -14,7 +14,21 @@ class Program
             {
                 outputArray[outputIndex++] = s;
             }
-        }    
+        }
+
+        Console.WriteLine("Исходный массив:");
+        foreach (string s in inputArray)
+        {
+            Console.Write($"{s} ");
+        }
+        Console.WriteLine();
+
+        Console.WriteLine("Обрезанный массив:");
+        foreach (string s in outputArray)
+        {
+            Console.Write($"{s} ");
+        }
+        Console.WriteLine();
 
         Console.Read();
     }
