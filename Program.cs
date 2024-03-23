@@ -23,7 +23,7 @@ class Program
         }
         Console.WriteLine();
 
-        Console.WriteLine("Обрезанный массив:");
+        Console.WriteLine("Итоговый массив:");
         foreach (string s in outputArray)
         {
             Console.Write($"{s} ");
