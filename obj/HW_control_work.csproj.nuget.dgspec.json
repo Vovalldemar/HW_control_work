@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NPC\\Desktop\\HW_Final\\HW_control_work\\HW_control_work.csproj": {}
+    "c:\\Users\\NPC\\Desktop\\HW_Final\\HW_control_work\\HW_control_work.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NPC\\Desktop\\HW_Final\\HW_control_work\\HW_control_work.csproj": {
+    "c:\\Users\\NPC\\Desktop\\HW_Final\\HW_control_work\\HW_control_work.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NPC\\Desktop\\HW_Final\\HW_control_work\\HW_control_work.csproj",
+        "projectUniqueName": "c:\\Users\\NPC\\Desktop\\HW_Final\\HW_control_work\\HW_control_work.csproj",
         "projectName": "HW_control_work",
-        "projectPath": "C:\\Users\\NPC\\Desktop\\HW_Final\\HW_control_work\\HW_control_work.csproj",
+        "projectPath": "c:\\Users\\NPC\\Desktop\\HW_Final\\HW_control_work\\HW_control_work.csproj",
         "packagesPath": "C:\\Users\\NPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NPC\\Desktop\\HW_Final\\HW_control_work\\obj\\",
+        "outputPath": "c:\\Users\\NPC\\Desktop\\HW_Final\\HW_control_work\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

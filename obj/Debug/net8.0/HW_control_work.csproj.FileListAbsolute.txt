@@ -1,0 +1,15 @@
+c:\Users\NPC\Desktop\HW_Final\HW_control_work\bin\Debug\net8.0\HW_control_work.exe
+c:\Users\NPC\Desktop\HW_Final\HW_control_work\bin\Debug\net8.0\HW_control_work.deps.json
+c:\Users\NPC\Desktop\HW_Final\HW_control_work\bin\Debug\net8.0\HW_control_work.runtimeconfig.json
+c:\Users\NPC\Desktop\HW_Final\HW_control_work\bin\Debug\net8.0\HW_control_work.dll
+c:\Users\NPC\Desktop\HW_Final\HW_control_work\bin\Debug\net8.0\HW_control_work.pdb
+c:\Users\NPC\Desktop\HW_Final\HW_control_work\obj\Debug\net8.0\HW_control_work.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\NPC\Desktop\HW_Final\HW_control_work\obj\Debug\net8.0\HW_control_work.AssemblyInfoInputs.cache
+c:\Users\NPC\Desktop\HW_Final\HW_control_work\obj\Debug\net8.0\HW_control_work.AssemblyInfo.cs
+c:\Users\NPC\Desktop\HW_Final\HW_control_work\obj\Debug\net8.0\HW_control_work.csproj.CoreCompileInputs.cache
+c:\Users\NPC\Desktop\HW_Final\HW_control_work\obj\Debug\net8.0\HW_control_work.sourcelink.json
+c:\Users\NPC\Desktop\HW_Final\HW_control_work\obj\Debug\net8.0\HW_control_work.dll
+c:\Users\NPC\Desktop\HW_Final\HW_control_work\obj\Debug\net8.0\refint\HW_control_work.dll
+c:\Users\NPC\Desktop\HW_Final\HW_control_work\obj\Debug\net8.0\HW_control_work.pdb
+c:\Users\NPC\Desktop\HW_Final\HW_control_work\obj\Debug\net8.0\HW_control_work.genruntimeconfig.cache
+c:\Users\NPC\Desktop\HW_Final\HW_control_work\obj\Debug\net8.0\ref\HW_control_work.dll
